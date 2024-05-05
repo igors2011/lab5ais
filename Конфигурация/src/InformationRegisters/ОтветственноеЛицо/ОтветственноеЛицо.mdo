@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="207f959e-33f2-4fba-9db5-5680c8da122c">
+  <producedTypes>
+    <selectionType typeId="12a50975-8944-4d86-9744-c6a80b900d6e" valueTypeId="19bb64b4-2994-4fc0-aee0-e53f102647b3"/>
+    <listType typeId="9139b5c2-5795-4545-9d63-8ba1144300c7" valueTypeId="aa5f2677-bf00-4a62-81e0-449815f757e1"/>
+    <managerType typeId="158a64e2-9048-4ca0-b0fe-3fca7a004868" valueTypeId="747a1951-1ab3-4f50-a51f-6498cbdb2404"/>
+    <recordSetType typeId="b2a08e97-1c53-4866-9ef4-7494d00b1128" valueTypeId="52da04e5-6a13-40bb-8966-7d023f5d3c55"/>
+    <recordKeyType typeId="42809780-3a86-4a28-9a67-8919997589af" valueTypeId="dda4a8c9-f19a-456e-8496-d3ad6ffb7f7b"/>
+    <recordType typeId="23507116-b24d-447d-9d3a-f14a21ec864e" valueTypeId="52bf2524-320a-4991-81aa-7035b29b578f"/>
+    <recordManagerType typeId="2dc2021d-98bb-4e59-8f87-5b6786ba74ae" valueTypeId="a14b982f-c8cf-446b-8253-36618745be55"/>
+  </producedTypes>
+  <name>ОтветственноеЛицо</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ответственное лицо</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:InformationRegister>

@@ -41,4 +41,5 @@
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.ПоступлениеТовара</documents>
+  <informationRegisters>InformationRegister.ОтветственноеЛицо</informationRegisters>
 </mdclass:Configuration>
